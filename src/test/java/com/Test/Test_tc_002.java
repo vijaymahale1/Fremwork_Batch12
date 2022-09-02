@@ -9,8 +9,8 @@ public class Test_tc_002 extends BaseClass {
 	
 	@Test
 	
-	public void Test_tc_002() {
+  public void test_TC_002() {
 		
-		System.out.println("Test 2");
+		System.out.println("Hello");
 	}
 }
